@@ -1,4 +1,2 @@
-counter = 1
-for x in range(0,100):
+for counter, _ in enumerate(range(1, 101), start=1):
     print(f"{counter}: Hello world!")
-    counter += 1
