@@ -1,5 +1,5 @@
 # Overview
-This is my program that prints hello world! My goal with this program is to print the words "Hello World!"
+This is my program that prints hello world! My goal with this program is to print the words "Hello World!" 100 times!
 
 
 [Software Demo Video](http://youtube.link.goes.here)
