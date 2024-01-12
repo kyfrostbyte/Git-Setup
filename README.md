@@ -5,9 +5,9 @@ This is my program that prints hello world! It is very advanced, due to its for 
 
 
 # Development Environment
-Python 3.12.1
-Visual Studio Code
-Git/Githu
+*Python 3.12.1
+*Visual Studio Code
+*Git/Githu
 
 
 # Useful Websites
