@@ -5,11 +5,11 @@ This is my program that prints hello world! It is very advanced, due to its for 
 
 
 # Development Environment
-<ul>
-*Python 3.12.1
-*Visual Studio Code
-*Git/Githu
-</ul>
+
+-Python 3.12.1
+-Visual Studio Code
+-Git/Github
+
 
 # Useful Websites
 * [W3 Schools](https://www.w3schools.com/python/ref_func_print.asp)
